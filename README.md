@@ -2,6 +2,8 @@
 
 A Jekyll tag that generates links to edit the current page on GitHub
 
+[![Build Status](https://travis-ci.org/benbalter/jekyll-edit-link.svg?branch=master)](https://travis-ci.org/benbalter/jekyll-edit-link)
+
 ## Installation
 
 1. Add the following to your site's Gemfile `gem 'jekyll-edit-link'`

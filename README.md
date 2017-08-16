@@ -1,6 +1,6 @@
 # Jekyll Edit Link
 
-A Jekyll tag that generates links to edit the current page on github
+A Jekyll tag that generates links to edit the current page on GitHub
 
 ## Installation
 

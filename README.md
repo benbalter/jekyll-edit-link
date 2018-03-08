@@ -1,3 +1,8 @@
+
+**This has [been encorporated into the GitHub Metadata plugin](https://github.com/jekyll/github-metadata/blob/master/lib/jekyll-github-metadata/edit-link-tag.rb).**
+
+---
+
 # Jekyll Edit Link
 
 A Jekyll tag that generates links to edit the current page on GitHub
